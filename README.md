@@ -1,7 +1,4 @@
-### Hi there 👋
-<marquee class="GeneratedMarquee" direction="up" scrollamount="5" behavior="scroll">"You miss 100% of the shots you don't take"  
--Wayne Gretzky  
--Michael Scott</marquee>
+### "You miss 100% of the shots you don't take. -Wayne Gretzky" -Michael Scott
 
 <!--
 **Chazaster/Chazaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
